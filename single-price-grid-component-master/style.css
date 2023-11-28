@@ -1,0 +1,78 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 330px;
+    border: 0px solid  ;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 44%;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 4px 8px  8px #888;
+}    
+.section1{
+    padding: 15px;
+}
+.join{
+    font-size: 17px;
+    color: hsl(182, 90%, 38%);;
+}
+.money{
+    font-size: 10px;
+    color: hsl(71, 73%, 54%);
+}
+.money2{
+    font-size: 10px;
+    color:hsl(218, 22%, 67%);
+}
+.money3{
+    font-size: 10px;
+    color:hsl(218, 22%, 67%);
+}
+.section2{
+    display: flex;
+    padding: 15px;
+    color: white;
+    padding: 0px;
+}
+.green{
+    font-size: 12px;
+}
+.dollar{
+    font-size: 25px;
+}
+.pond{
+    font-size: 9px;
+}
+.access{
+    font-size: 12px;
+}
+.block{
+    font-size: 17px;
+}
+.block1{
+    font-size: 10px;
+}
+.blue1{
+    width: 50%;
+    background: hsl(182, 90%, 38%);
+    padding: 13px;
+}
+
+.blue2{
+    width: 50%;
+    background: hsl(182, 79%, 50%);
+    padding: 13px;
+}
+.sign{
+    background: hsl(71, 73%, 54%);
+    color: white;
+    width: 120px;
+    cursor: pointer;
+}
+.section2{
+    flex:1;
+}
+.sign:hover{
+    background: blueviolet;
+}
